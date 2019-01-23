@@ -1,0 +1,3 @@
+TestCasesPath : 'TestCasesInputFile.xlsx'
+TestCases : 1-6
+OutputPath : 'TestCasesOutputs.xlsx'
